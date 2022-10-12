@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T09:12:28.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NQL8hVi3x1SYDVJjnzoz" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T09:12:50.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iWRp67hnk97g-Bwh6TdO" version="20.4.0" type="github">
   <diagram id="BZg1PFTesDQlBqDumn2s" name="Page-1">
     <mxGraphModel dx="1600" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="2yXLyzb__mEgWafB_Yba-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2yXLyzb__mEgWafB_Yba-23" target="2yXLyzb__mEgWafB_Yba-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2yXLyzb__mEgWafB_Yba-23" value="全量更新表&lt;br&gt;（iceberg 表）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2yXLyzb__mEgWafB_Yba-23" value="全量更新表&lt;br&gt;（iceberg 表）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2yXLyzb__mEgWafB_Yba-31" value="DW层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -158,6 +158,15 @@
         </mxCell>
         <mxCell id="2yXLyzb__mEgWafB_Yba-43" value="分析报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="523" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yXLyzb__mEgWafB_Yba-50" value="全量表（Hive)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yXLyzb__mEgWafB_Yba-51" value="增量表（hive)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yXLyzb__mEgWafB_Yba-52" value="删除表（Hive)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
