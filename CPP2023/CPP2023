@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T12:59:59.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="5fRUtTLN5T53nLwD7lCR" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T14:47:41.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="sQ1zUFN7xDsqJI_ssDRS" type="github">
   <diagram id="pK-M-pRZN78E3wFQpEJd" name="Page-1">
-    <mxGraphModel dx="1341" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,36 @@
         </mxCell>
         <mxCell id="g3BuNocdDuPVUmHJVfDc-11" value="Job PluginServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="540" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-14" value="Dashboard Web" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="790" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-15" value="Arctic Open API" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="425" y="790" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-16" value="Arctic Thrift Interface" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="790" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="270" y="830" width="460" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-18" value="Self-Optimizing&lt;br&gt;Manager" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-19" value="Catalog Manager" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="435" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-20" value="File Cache&lt;br&gt;Manager" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-21" value="SQL Terminal&lt;br&gt;Manager" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-22" value="Transaction&lt;br&gt;manager" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3BuNocdDuPVUmHJVfDc-24" value="Metadata Database" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1010" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
