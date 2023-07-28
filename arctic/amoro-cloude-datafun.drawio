@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T09:45:51.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GTIhD8IW_fLd0Dbu4A_w" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T11:37:59.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1ajyiLBY9D6MzKivB40Z" version="21.5.2" type="github">
   <diagram name="Page-1" id="tv53r37UJuACmMFxITL4">
-    <mxGraphModel dx="3496" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3566" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,10 +170,10 @@
           <mxGeometry x="140" y="830" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-57" value="AMS （Amoro Management Service)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="580" width="570" height="60" as="geometry" />
+          <mxGeometry x="-640" y="34" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-80" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-930" y="670" width="180" height="140" as="geometry" />
+          <mxGeometry x="-640" y="124" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-61" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-80">
           <mxGeometry width="162.5" height="140" as="geometry" />
@@ -188,10 +188,10 @@
           <mxGeometry y="10" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-81" value="Yarn&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="826" width="160" height="60" as="geometry" />
+          <mxGeometry x="-640" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-82" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-730" y="670" width="180" height="140" as="geometry" />
+          <mxGeometry x="-440" y="124" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-83" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-82">
           <mxGeometry width="162.5" height="140" as="geometry" />
@@ -206,10 +206,10 @@
           <mxGeometry y="10" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-87" value="K8s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="826" width="160" height="60" as="geometry" />
+          <mxGeometry x="-440" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-88" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-530" y="670" width="180" height="140" as="geometry" />
+          <mxGeometry x="-240" y="124" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-89" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-88">
           <mxGeometry width="162.5" height="140" as="geometry" />
@@ -224,31 +224,31 @@
           <mxGeometry y="10" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-93" value="Compute cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="826" width="160" height="60" as="geometry" />
+          <mxGeometry x="-240" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-94" value="S3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="430" width="340" height="40" as="geometry" />
+          <mxGeometry x="-460" y="930" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-95" value="alluxio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="390" width="340" height="35" as="geometry" />
+          <mxGeometry x="-460" y="890" width="340" height="35" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-96" value="hive/parquet table/ iceberg&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="340" width="163.20000000000002" height="40" as="geometry" />
+          <mxGeometry x="-460" y="840" width="163.20000000000002" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-97" value="K8S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1380" y="340" width="170" height="40" as="geometry" />
+          <mxGeometry x="-290" y="840" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-98" value="HMS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="290" width="163.20000000000002" height="40" as="geometry" />
+          <mxGeometry x="-460" y="790" width="163.20000000000002" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-99" value="SPARK/FLINK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1378.3" y="290" width="166.60000000000002" height="40" as="geometry" />
+          <mxGeometry x="-288.29999999999995" y="790" width="166.60000000000002" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-100" value="AMS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="240" width="340" height="40" as="geometry" />
+          <mxGeometry x="-460" y="740" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-109" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2100" y="277" width="340" height="148" as="geometry" />
+          <mxGeometry x="-470" y="510" width="340" height="148" as="geometry" />
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-102" value="HDFS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-109">
           <mxGeometry y="108" width="340" height="40" as="geometry" />
@@ -264,6 +264,48 @@
         </mxCell>
         <mxCell id="fvgirOWMD90nzsdTlDjV-107" value="HiveSQL&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-109">
           <mxGeometry x="171.70000000000005" width="166.60000000000002" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-111" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1540" y="770" width="340" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-112" value="S3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-111">
+          <mxGeometry y="108" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-113" value="Iceberg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-111">
+          <mxGeometry y="50" width="163.20000000000002" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-114" value="AWS EKS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-111">
+          <mxGeometry x="170" y="50" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-115" value="AWS Glue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-111">
+          <mxGeometry width="163.20000000000002" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-116" value="Spark/Flink" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-111">
+          <mxGeometry x="171.70000000000005" width="166.60000000000002" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-118" value="AMS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="710" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-119" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2180" y="742" width="340" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-120" value="S3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-119">
+          <mxGeometry y="108" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-121" value="Iceberg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-119">
+          <mxGeometry y="50" width="163.20000000000002" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-122" value="AWS EKS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-119">
+          <mxGeometry x="170" y="50" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-124" value="Spark/Flink" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-119">
+          <mxGeometry x="171.70000000000005" width="166.60000000000002" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvgirOWMD90nzsdTlDjV-125" value="AMS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;container=0;" vertex="1" parent="fvgirOWMD90nzsdTlDjV-119">
+          <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
